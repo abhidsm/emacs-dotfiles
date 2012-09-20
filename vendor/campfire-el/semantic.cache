@@ -1,0 +1,14 @@
+;; Object campfire-el/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "campfire-el/"
+  :tables (list 
+   (semanticdb-table "campfire.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "campfire.el"
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre4"
+  :semanticdb-version "2.0pre4"
+  )

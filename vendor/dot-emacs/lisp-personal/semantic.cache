@@ -1,0 +1,14 @@
+;; Object lisp-personal/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "lisp-personal/"
+  :tables (list 
+   (semanticdb-table "scss-mode.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "scss-mode.el"
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre4"
+  :semanticdb-version "2.0pre4"
+  )
