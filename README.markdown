@@ -47,6 +47,11 @@ Note that having a ~/.emacs file might override the starter kit
 loading, so if you've having trouble loading it, make sure that file
 is not present.
 
+**If you are facing any errors with rinari do the following steps**:
+
+1. package install jump
+2. Do the changes mentioined in [this link](https://github.com/vhallac/rinari/commit/cb7360770a20d022a7851375d691ab53f45489f0)
+
 ## Structure
 
 The init.el file is where everything begins. It's the first file to
